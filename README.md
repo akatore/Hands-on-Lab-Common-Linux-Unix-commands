@@ -3,7 +3,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@10.7.1/styles/default.min.css">
-<!--   <style></style><style type="text/css">/* this file is used for labs on cognitiveclass.ai that were written in markdown */
+<style></style>
+    
+<!--     <style type="text/css">/* this file is used for labs on cognitiveclass.ai that were written in markdown */
 
 /* applies to images, i.e. "![]()" in markdown */
 img {
